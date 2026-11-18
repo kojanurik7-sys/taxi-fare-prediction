@@ -54,7 +54,8 @@
 
 
 
-\- \[Activity: сапар құнын болжау](docs/analysis/activity-predict-fare.png)
+- [Activity: сапар құнын болжау](docs/analysis/activity-predict-fare.png)
 
-\- \[Sequence: сапар құнын болжау](docs/analysis/sequence-predict-fare.png)
+- [Sequence: сапар құнын болжау](docs/analysis/sequence-predict-fare.png)
+- 
 
