@@ -48,3 +48,13 @@
 
 8\. Әкімші ML-модельді қайта оқытып, болжам дәлдігі туралы есепті қарайды.
 
+
+
+\## Құжаттама
+
+
+
+\- \[Activity: сапар құнын болжау](docs/analysis/activity-predict-fare.png)
+
+\- \[Sequence: сапар құнын болжау](docs/analysis/sequence-predict-fare.png)
+
